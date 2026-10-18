@@ -1,0 +1,9 @@
+Item,Value
+Nomoto_K,0.108500
+Nomoto_T,9.944700
+GainMargin,Inf
+PhaseMargin_deg,50.300826
+RampSteadyStateError,24.889404
+PID_RMSE_deg,94.462493
+STW_RMSE_deg,92.805166
+SimulinkModelCreated,1
